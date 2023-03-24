@@ -1,0 +1,64 @@
+.jumbotron {
+    padding-top : 5rem ;
+    background-color: whitesmoke;
+}
+
+.about{
+    padding-top : 2rem ;
+    background-color: whitesmoke;
+}
+
+#Project {
+    padding-top : 2rem ;
+    background-color: whitesmoke;
+}
+
+.social-media-link {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+.social-media-link:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.social-media-link img {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.whatsapp {
+    background-color: #25d366;
+}
+.instagram {
+    background-color: #e1306c;
+}
+.tiktok {
+    background-color: #1c9ceb;
+}
+.whatsapp:hover {
+    background-color: #128c7e;
+}
+.instagram:hover {
+    background-color: #c13584;
+}
+.tiktok:hover {
+    background-color: #0c7cd5;
+}
+
+footer {
+    background-color: #273036;
+    text-align: center;
+}
+
+#contact {
+    padding-top : 2rem ;
+    background-color: whitesmoke;
+}
